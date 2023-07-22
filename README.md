@@ -4,7 +4,7 @@
 - 📖 I’m currently learning azure devops 
 - 💞️ I’m looking to collaborate on K8s, Cloud stuffs
 - ⚙️ I use daily: .tf, .yaml, .helm, .sh
-- 🌱 Don't limit yourself. Learn and grow in every single opportunities
+- 🌱 I don't limit myself, Will try to learn and grow in every single opportunities
 
 <!---
 bn-karumugam/bn-karumugam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
