@@ -3,7 +3,7 @@
 - 👀 I’m interested in Cloud Tools, Opensources 
 - 📖 I’m currently learning azure devops 
 - 💞️ I’m looking to collaborate on K8s, Cloud stuffs
-- ⚙️ I use daily: .yaml, .helm, .tf, .sh
+- ⚙️ I use daily: .tf, .yaml, .helm, .sh
 - 🌱 Don't limit yourself. Learn and grow in every single opportunities
 
 <!---
